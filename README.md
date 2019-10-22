@@ -108,7 +108,3 @@ $ rails s
   $ git push heroku master
   $ heroku run rake db:migrate
   ```
-
-## License
-
-grammable is released under the [MIT license](https://mit-license.org).
